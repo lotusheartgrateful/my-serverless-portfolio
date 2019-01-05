@@ -1,4 +1,2 @@
 # Sujatha Bharath's Portfolio
-
-This is my professional portfolio.
-This uses AW and ReactJS.
+This is my professional portfolio. I have used AWS and ReactJS.
